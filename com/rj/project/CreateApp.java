@@ -1,9 +1,9 @@
-package com.seleniumexpress.project;
+package com.rj.project;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-import com.seleniumexpress.entities.Song;
-import com.seleniumexpress.util.HibernateUtils;
+import com.rj.entities.Song;
+import com.rj.util.HibernateUtils;
 
 
 public class CreateApp 
